@@ -1,1 +1,1 @@
-# HCI-cardhub
+# HCI-credit card manager
