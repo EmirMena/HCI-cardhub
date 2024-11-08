@@ -1,30 +1,31 @@
 # Definición de proyecto
 
 ## Problemática
-- Crisis: Las personas con tarjetas de crédito, en especial los nuevos usuarios, pueden incurrir en morosidad. Esta situación puede conducirlas a un endeudamiento excesivo, afectando su capacidad para alcanzar metas financieras tanto a largo como a corto plazo. En casos más graves, la morosidad puede reducir su capacidad de gasto y generar una dependencia de servicios sociales, e incluso entrar en buró de crédito.
+- Crisis: Las personas con múltiples tarjetas de crédito pueden enfrentar dificultades para llevar un control adecuado de los plazos de pago y de los montos necesarios para evitar intereses. Esto conlleva al riesgo de pasar por alto algún pago, lo que puede resultar en intereses adicionales y afectar sus finanzas. Este problema es especialmente relevante para los usuarios "totaleros" que buscan pagar el saldo total de sus tarjetas para evitar intereses, ya que cualquier descuido puede impactar su estabilidad financiera y comprometer su capacidad de realizar pagos oportunos en el futuro.
 
-- Causas: Las causas de la morosidad en usuarios de tarjetas de crédito son diversas, pero una de las principales es la falta de educación financiera. Esta carencia, en especial presente en jóvenes, afecta su comprensión de términos como tasas de interés, plazos de pago y límites de crédito. La falta de conocimiento dificulta la toma de decisiones informadas, conduciendo a situaciones de endeudamiento y morosidad.
+- Causas: Las principales causas de este problema radican en la falta de una herramienta centralizada y accesible que permita visualizar de forma clara y simple el estado de todas las tarjetas de crédito, sin importar el banco al que pertenezcan. Además, la falta de un resumen conciso del monto total a pagar y de la tarjeta con fecha de vencimiento más próxima puede contribuir al olvido de pagos y a una mala gestión de deudas a corto plazo.
 
 ## Meta
-Informar a los estudiantes de la facultad de matemáticas, que aún no han adquirido una tarjeta de crédito, sobre el uso adecuado de las tarjetas de crédito, con el objetivo de prevenir posibles problemas financieros, como caer en morosidad o ingresar al buró.
+Desarrollar una aplicación móvil que permita a los usuarios totaleros llevar un control efectivo de sus tarjetas de crédito. La aplicación ofrecerá una visión consolidada del saldo total a pagar, el pago mínimo, el pago total para no generar intereses y las fechas de vencimiento de cada tarjeta, ayudando a evitar pagos tardíos e intereses.
 
 ## Relevancia Social
-El proyecto aborda una problemática relevante en la sociedad actual, donde muchas personas, en especial los nuevos usuarios de tarjetas de crédito y los jóvenes, carecen de educación financiera. Esta falta de conocimiento puede llevar a problemas financieros graves, como morosidad y endeudamiento excesivo, lo que perjudica la capacidad de las personas para alcanzar sus metas financieras a corto y largo plazo. Al enseñar información precisa y práctica sobre el uso responsable de las tarjetas de crédito, se busca mejorar la educación financiera de los estudiantes de la Facultad de Matemáticas y prevenir futuros problemas financieros.
+El proyecto responde a una necesidad creciente en la sociedad actual, donde cada vez más personas tienen varias tarjetas de crédito. La aplicación facilitará a estos usuarios la administración de sus pagos, evitando así el riesgo de incurrir en intereses adicionales y promoviendo una cultura de manejo responsable de las deudas. La herramienta también contribuirá a la educación financiera, permitiendo a los usuarios visualizar y entender sus obligaciones financieras, lo cual es clave para una administración saludable de sus recursos económicos.
 
 ## Innovación
-A día de hoy, existen algunas soluciones que han intentado abordar el problema, cursos y talleres presenciales, material educativo impreso o asesoramiento personalizado. Sin embargo, estas soluciones tienen limitaciones como lo son: poca accesibilidad, alcance reducido y falta de personalización. La innovación del proyecto está en la combinación de métodos de enseñanza modernos y accesibles, combinando: texto, audio, video y ejercicios prácticos, para proporcionar una experiencia de aprendizaje interactiva y efectiva, personalizando así la enseñanza. Además, la función de tomar notas y compartirlas con otros usuarios agrega un elemento colaborativo y social al proceso de aprendizaje. Al ser un programa virtual, su alcance y accesibilidad será grande, pues cualquiera con un dispositivo inteligente (entre los soportados) podrá acceder a la aplicación.
+Actualmente, existen aplicaciones bancarias que permiten a los usuarios gestionar sus cuentas, pero la mayoría solo ofrece información sobre las tarjetas del banco correspondiente. Este proyecto innova al centralizar la información de todas las tarjetas de crédito del usuario, sin importar el banco emisor, en una sola plataforma. Además, la aplicación brindará un cálculo automático del saldo total, del pago necesario para no generar intereses y de la tarjeta con fecha de vencimiento más próxima, funcionalidades que ayudan a los usuarios totaleros a evitar intereses de forma práctica y conveniente.
 
 # Factibilidad
-Además, hay una demanda creciente de educación financiera entre los jóvenes y los nuevos usuarios de tarjetas de crédito, lo que garantiza un mercado objetivo para la aplicación. El uso de anuncios dentro de la app ayudará a hacerlo sostenible económicamente pues, con un gran mercado de usuarios usando la aplicación, estos se vuelven más factibles.
+Existe una demanda creciente de herramientas de administración financiera en el mercado, especialmente entre personas que usan varias tarjetas de crédito y buscan evitar generar intereses. La aplicación se monetizará mediante anuncios no intrusivos, lo cual permitirá sostener su desarrollo y mantenimiento. El amplio mercado de usuarios de tarjetas de crédito garantiza una adopción potencial significativa, lo cual contribuye a la viabilidad económica del proyecto.
 
 # Objetivos
 
 | ID | Tipo |	Objetivo | Razón |
 | -- | ---- | -------- | ----- |
-| OF1 | Funcional | Brindar información específica sobre el total de sus tarjetas de crédito | El usuario podrá basarse en esta información para tomar una decisión respecto a sus futuras compras, presupuestos e ingresos que puedan presentarse como consecuencia del pago de sus tarjetas de crédito |
-
-
+| OF1 | Funcional | Proporcionar un resumen consolidado de las deudas en todas las tarjetas de crédito | Los usuarios podrán visualizar fácilmente el total de su deuda en todas las tarjetas y planificar su presupuesto en función de sus obligaciones financieras. |
+| OF2 | Funcional | Informar al usuario sobre el monto exacto a pagar para evitar intereses en el período | Los usuarios totaleros podrán hacer los pagos completos a tiempo, evitando así cargos adicionales por intereses. |
+| OF3 | Funcional | Identificar y destacar la tarjeta de crédito con el pago más próximo | El usuario recibirá alertas sobre el próximo pago a realizar, ayudándole a priorizar sus pagos y evitar omisiones. |
+| OF4 | No Funcional | Garantizar una experiencia de usuario intuitiva y fácil de navegar | La aplicación debe ser lo suficientemente sencilla para que cualquier usuario pueda ver y comprender rápidamente el estado de sus tarjetas. |
 
 ## Usuarios potenciales
 
-Personas de la población que estarían interesadas en adquirir una tarjeta de crédito y deseen aprender sobre su uso correcto, ya que son los que queremos prevenir que incurran en morosidad o entrar en buró debido a un mal uso de tarjetas.
+Usuarios de tarjetas de crédito (de cualquier banco) que buscan una herramienta de control y administración centralizada para gestionar sus deudas sin incurrir en intereses. Especialmente enfocada en usuarios totaleros, interesados en tener un control detallado y accesible de sus tarjetas para evitar pagos tardíos y cargos adicionales.
