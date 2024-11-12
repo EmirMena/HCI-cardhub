@@ -34,6 +34,8 @@ Leopoldo nota que su hijo nuevamente olvidó la fecha de pago de la tarjeta adic
 
 Leopoldo quiere que su hijo y él tengan acceso a una herramienta que centralice la información de los gastos y fechas de pago de la tarjeta adicional. Además, espera que la aplicación envíe recordatorios para que su hijo pueda cumplir con sus pagos puntualmente y adquirir hábitos de responsabilidad financiera.
 
+### Workflow de la aplicación
+
 1. Leopoldo configura la aplicación, ingresando la información de su tarjeta y de la tarjeta adicional de su hijo.
 2. Se asegura de que tanto él como su hijo tengan acceso a la aplicación en sus teléfonos para que ambos puedan monitorear los gastos y las fechas importantes.
 3. Leopoldo configura permisos para que su hijo pueda visualizar y gestionar la tarjeta adicional, pero manteniendo cierto control sobre los límites de gasto y las alertas.
