@@ -47,3 +47,10 @@ Se espera que las personas con mayor tiempo para revisar sus finanzas usen la ap
 2. "Prefiere obtener recordatorios automáticos porque tiene un horario ocupado y necesita ayuda para no perder fechas de pago. Su fuente preferida son las alertas de la aplicación, ya que son fáciles de seguir y le permiten mantenerse al día."
 
 3. "Prefiere aprender sobre sus finanzas con gráficos y resúmenes porque le permite ver su situación financiera de un vistazo. Su fuente preferida es la aplicación de control de tarjetas ya que centraliza la información sin necesidad de revisar múltiples plataformas bancarias."
+
+
+## Mapa de empatía
+
+![image](https://github.com/user-attachments/assets/3f6f994c-4f1d-4bb8-adb5-80451b815ef8)
+
+
