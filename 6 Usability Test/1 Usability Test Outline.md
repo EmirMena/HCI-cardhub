@@ -8,13 +8,13 @@
 ## Requerimientos funcionales asociados
 
 * **Agregar tarjetas (RF04):** El usuario debe poder añadir tarjetas fácilmente, seleccionando su banco, ingresando el nombre de la tarjeta y personalizando la información como fecha de corte y fecha de pago.
-* **Visualización de gráficos de gasto por tarjeta (RF23):** El usuario podrá ver gráficos con información relevante sobre su gasto y periodo de pago, lo cual facilita el análisis de su situación financiera.
+* **Edición de valores asociados a la tarjeta (Pago PNGI, Saldo Actual, Saldo Posterior al pago) (RF23):** El usuario podrá editar sus gastos que se encuentren en el periodo corriente. De esta forma se visualizará el total de adeudo de sus tarjetas.
+
 
 ## Criterio de evaluación
 
 * **Para el RF04 (Agregar tarjetas):** Evaluar que los usuarios pueden completar el proceso de agregar una tarjeta en un tiempo razonable, sin ayuda y sin errores. El sistema debe ser intuitivo para que cualquier usuario pueda realizar esta acción sin capacitación.
-* **Para el RF23 (Visualización de gráficos):** Evaluar si los usuarios pueden interpretar y extraer conclusiones del gráfico de gasto por tarjeta, asegurando que la información sea clara y comprensible.
-
+* **Para el RF23 (Edición de valores asociados a la tarjeta):** Evaluar si los usuarios pueden seleccionar la tarjeta y añadir los valores de sus gastos, asegurando que puedan hacerlo en el primer intento.
 
 # B) Plan de Pruebas
 
@@ -26,22 +26,40 @@
 * **Tarea 1:** Registro y configuración inicial de una tarjeta de crédito.
   * **Escenario:** El usuario descarga la aplicación, se registra y añade una tarjeta de crédito, completando todos los campos necesarios.
   * **Objetivo:** Evaluar la facilidad de uso y comprensión del proceso de registro y adición de tarjeta.
-* **Tarea 2:** Visualización del gráfico de gasto por tarjeta.
-  *  **Escenario:** El usuario quiere revisar su gasto total y el periodo de pago a través de un gráfico para planificar sus finanzas.
-  *  **Objetivo:** Evaluar si el usuario entiende la información presentada en el gráfico y puede extraer conclusiones claras de su gasto y periodos.
+* **Tarea 2:** Editar valores asociados
+  *  **Escenario:** Un usuario edita los valores de una tarjeta previamente registrada.
+  *  **Objetivo:** Evaluar si el usuario puede completar esta acción sin dificultad.
 
 ## 3. Tiempo de estimación por tarea:
-* **Tarea 1 (Registro y configuración):** 5-7 minutos, considerando que el usuario navegue por la aplicación por primera vez.
+* **Tarea 1 (Registro y configuración):** 5-7 minutos considerando que el usuario navegue por la aplicación por primera vez.
 * **Tarea 2 (Visualización de gráficos):** 3-5 minutos, incluyendo el tiempo para analizar la información y realizar consultas adicionales si lo considera necesario.
 
 
 # C) Métricas de usabilidad
 
-1. **Tasa de éxito:** Porcentaje de usuarios que completan cada tarea correctamente sin ayuda ni errores.
-2. **Tiempo de finalización:** Tiempo promedio que los usuarios tardan en completar cada tarea.
-3. **Tasa de errores:** Número de errores cometidos por los usuarios durante cada tarea (por ejemplo, seleccionar un campo incorrecto o dificultad en la navegación).
-4. **Satisfacción del usuario**: Calificación promedio de satisfacción general sobre la facilidad de uso de la aplicación (medida mediante una escala de Likert del 1 al 5).
-5. **Tasa de abandono:** Porcentaje de usuarios que abandonan la tarea o se frustran al no poder completarla.
+1. **Tasa de éxito:**
+   * Definición: Porcentaje de participantes que completan la tarea sin errores.
+   * Usabilidad Nivel:
+     * Inaceptable: Menos del 70% completa la tarea.
+     * Aceptable: Entre 70% y 90% completa la tarea.
+     * Excelente: Más del 90% completa la tarea.
+2. **Tiempo de finalización:**
+   * Definición: Tiempo promedio que los usuarios tardan en completar cada tarea.
+     * Inaceptable: Más de 120% del tiempo esperado.
+     * Aceptable: Entre 100% y 120% del tiempo esperado.
+     * Excelente: Menos del 100% del tiempo esperado.
+3. **Claridad de la Información:**
+   * Definición: Porcentaje de usuarios que comprenden claramente las instrucciones y etiquetas en la interfaz.
+   * Usabilidad Nivel:
+     * Unacceptable: Menos del 70% comprende la información.
+     * Acceptable: Entre 70% y 90% comprende la información.
+     * Excellent: Más del 90% comprende la información.
+4. **Satisfacción del Usuario:**
+    * Definición: Promedio de calificaciones de satisfacción obtenidas en una escala de Likert (1-5).
+    * Usabilidad Nivel:
+       * Unacceptable: Menos de 3.
+       * Acceptable: Entre 3 y 4.
+       * Excellent: Más de 4.
 
 
 # D) Protocolo de Pruebas de Usabilidad
