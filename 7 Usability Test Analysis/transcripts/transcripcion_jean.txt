@@ -1,0 +1,47 @@
+(Transcrito por TurboScribe.ai. Actualizar a Ilimitado para eliminar este mensaje.)
+
+¿Me escuchas? Sí, te escucho. ¿Me escuchas? Sí, te escucho. Vale.
+
+Solamente quiero asegurarme de que... ...que puedas, por favor... ...antes de empezar como que... ...con todo el proceso así formal... ...este... ...te voy a mandar un link... ...por acá. Nada más, por favor, confirmame... ...por favor, confirmame... ...que... ...ajá, que puedes ver... ...el prototipo. Por favor.
+
+Sí, sí lo puedo ver. Vale. Ok. 
+
+Mira... ...este... ...primero que nada, gracias por participar... ...en esta prueba de usabilidad. Ya sabes que mi nombre es... ...Adrián Fonseca y te voy a estar guiándote a través de... ...algunas tareas... ...para la aplicación. Básicamente... ...esta aplicación es para certificar... ...la gestión de tarjetas de crédito... ...eh... ...para permitir a los usuarios agregar... ...y personalizar información... ...relevante de manera clara y eficiente.
+
+Este... ...y pues básicamente el propósito... ...de esta prueba es más que nada por lo... ...por la... ...por un proyecto final que estoy haciendo... ...para HCI. Este... ...y pues básicamente vamos a evaluar... ...la facilidad... ...con la que los usuarios... ...realizan estas tareas. Entonces... ...con tu permiso, ¿podemos grabar esta sesión... ...para poder analizar los comentarios... ...más adelante? Sí, sí.
+
+Vale, gracias. Ok, pues mira, este... ...por favor... ...ubícate... ...ahorita actualmente... ...prototipo... ...ya ves que a la izquierda están los flows... Ajá. ¿Podrías ubicarte en el flow número 4? Ok, ya estoy ahí.
+
+Vale. Entonces... ...el primer escenario... ...la primera tarjeta... ...perdón, la primera tarea va a ser agregar una tarjeta... ...entonces... ...el escenario es básicamente... ...imagínate que estás configurando... ...tu cuenta... ...y deseas agregar una tarjeta de crédito. Entonces... ...pudieras por favor... ...intentar hacerlo... ...y avisarme cuando hayas terminado.
+
+Ok. Listo. Ok.
+
+Bueno, te voy a hacer nada más... ...una serie de preguntas... ...antes de pasar a la siguiente tarea. Y la primera pregunta es... ¿Qué pasos crees que necesitas realizar... ...para agregar una tarjeta? ¿Cómo que qué pasos necesito? Sí, cuando... ...entraste a la interfaz... ...¿qué fue lo primero que pensaste que necesitabas... ...para poder añadir una tarjeta? El nombre del banco. Ok.
+
+¿Algo más? La fecha de corte, y de ahí... ...luego la terminación de la tarjeta. ¿Qué elementos visuales te ayudaron... ...a identificar cómo proceder? El orden... ...de arriba abajo en el que están los campos. Y por último... ...¿qué opinas del proceso? ¿Se te hizo claro o fue confuso? Se hizo claro.
+
+Ok. Gracias. Vale.
+
+Nada más quiero... Ok. Por último... ...para hacer la última tarea... ...que viene siendo... ...editar los valores asociados a la tarjeta. Para eso te voy a pedir que por favor... ...te ubiques en el flow número 2. Ok, ya estoy ahí.
+
+Ok. Y bueno, la tarea va a ser... ...como ya dije, editar los valores asociados. Entonces, imagina que necesitas... ...editar los valores... ...que están asociados a esta tarjeta.
+
+Como el pago para no generar intereses... ...algo posterior al pago. ¿Cómo los editarías? Pues... ...el saldo actual del pago para no generar intereses... ...tiene un símbolo de lápiz... ...entonces supongo que... ...puedo editarlos al presionar eso. Correcto.
+
+Aunque el saldo... ...posterior al pago... ...pues supongo que no se puede editar. Es correcto. Y... ¿Ya pudiste editar los dos valores? No lo encontré.
+
+Ya. Vale. Ok, y... Bueno, ya me respondiste a una pregunta... ...que viene siendo ¿cómo identificaste la opción para editar valores? Me imagino que al mismo tiempo... ...ya identificaste cuáles eran los campos... ...que eran editables.
+
+Una pregunta, ¿identificaste los campos... ...que eran editables? Asumí que el saldo posterior al pago... ...y próxima fecha de pago no son editables... ...porque no tenían el símbolo de los otros. Perfecto. Y... ¿Qué opinas del proceso de guardar cambios? ¿Crees que fue difícil? ¿O te dejo con dudas? No, no fue difícil.
+
+Vale. ¿Y consideras que después de guardar los cambios... ...ya te aseguraste de que estaban guardados? Sí, porque... ...se refleja el cambio en el saldo posterior al pago. Ok.
+
+Perfecto. Ok, voy a detener la grabación... ...en este momento. Y listo.
+
+Ok. Voy a guardar la grabación. Y... ...pues básicamente eso sería... ...todo. Eh... ...solamente son dos requerimientos funcionales... ...que se tienen que evaluar.
+
+Este... ...y gracias por la retroalimentación. Quisiera nada más preguntarte... ...si tienes alguna pregunta o comentario... ...antes de finalizar. No, no, todo bien.
+
+Tranquilo. Vale. Te damos muchísimas gracias.
+
+(Transcrito por TurboScribe.ai. Actualizar a Ilimitado para eliminar este mensaje.)
