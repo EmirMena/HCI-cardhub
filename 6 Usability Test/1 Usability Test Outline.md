@@ -68,14 +68,14 @@
 Evaluar la usabilidad de la aplicación en las funciones de agregar tarjetas de crédito y visualizar gráficos de gasto, con el fin de garantizar que los usuarios puedan navegar y utilizar la app de manera intuitiva y eficiente.
 
 ### Fase 1: Preparación
-1. **Selección de participantes:** Reclutar de 8 a 10 usuarios representativos (usuarios primarios y secundarios).
+1. **Selección de participantes:** Reclutar de 2 a 3 usuarios representativos (usuarios primarios y secundarios).
 2. **Configuración del entorno:** Asegurarse de que la app esté instalada y lista para las pruebas. Preparar dispositivos y herramientas para registrar el tiempo de tarea y los comentarios de los usuarios.
 3. **Instrucciones iniciales:** Explicar a los participantes que el propósito es probar la aplicación, no evaluar sus habilidades, para reducir la presión.
 
 ### Fase 2: Ejecución
 1. **Introducción:** Explicar brevemente las funciones principales de la aplicación sin entrar en detalles de cada tarea.
 2. **Tarea 1 (Registro y configuración):** Pedir al usuario que realice el proceso de registro y añada una tarjeta de crédito. Registrar el tiempo y observar cualquier dificultad o error que ocurra.
-3. **Tarea 2 (Visualización de gráficos):** Pedir al usuario que acceda a la sección de gráficos de gasto por tarjeta y consulte la información presentada. Observar su comprensión y registrar el tiempo necesario.
+3. **Tarea 2 (Edición de valores asociados):** Pedir al usuario que una vez la tarjeta esté registrada, seleccione la opción para poder editar sus valores asociados (Pago PNGI y Saldo Actual). Dejar que el usuario interactúe con la interfaz directamente para realizar esta tarea.
 4. **Comentarios en tiempo real:** Animar a los participantes a "pensar en voz alta" para comprender sus decisiones y puntos de confusión.
 
 ### Fase 3: Evaluación y Retroalimentación
