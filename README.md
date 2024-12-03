@@ -111,19 +111,7 @@ Cada uno de los perfiles a continuación representa un tipo de usuario que proba
 - **Escenario de uso:**  
   José entra en la aplicación para ver los resúmenes de sus tarjetas, donde la herramienta muestra un gráfico de su gasto mensual. La app le alerta de los pagos próximos y le permite ver rápidamente cómo está distribuyendo su dinero entre las tarjetas.
 
-### **3. El Experimentado con Múltiples Tarjetas**
-- **Nombre:** Marta, 40 años  
-- **Ocupación:** Gerente de ventas  
-- **Tecnología utilizada:** Herramientas financieras avanzadas, apps personalizadas  
-- **Comportamiento:** Marta tiene varias tarjetas de crédito y un buen control sobre su situación financiera. Sabe cómo manejar sus gastos, pero prefiere soluciones más eficientes para ahorrar tiempo y optimizar procesos.
-- **Necesidades:**  
-  - Se requieren funcionalidades avanzadas, como categorización de gastos, reportes detallados y alertas personalizadas.
-  - Se necesita un sistema que permita gestionar varias tarjetas simultáneamente, calculando automáticamente los intereses y mostrando resúmenes claros.
-  - Se busca automatizar lo máximo posible los procesos financieros.
-- **Escenario de uso:**  
-  Marta utiliza la aplicación para ver todas sus tarjetas y sus respectivos saldos, fechas de pago y gastos. La app le genera automáticamente reportes sobre sus compras, le muestra cuánto debe pagar en cada tarjeta para evitar intereses, y le envía alertas personalizadas sobre pagos.
-
-### **4. El Indeciso Curioso**
+### **3. El Indeciso Curioso**
 - **Nombre:** Pedro, 28 años  
 - **Ocupación:** Diseñador gráfico  
 - **Tecnología utilizada:** Apps de gestión financiera simples  
@@ -148,16 +136,9 @@ Los escenarios de uso permiten visualizar cómo los diferentes tipos de usuarios
 ### **Escenario 2: Visualización de Gastos y Resúmenes Mensuales**
 - **Usuario:** José (Usuario Digital Básico)  
 - **Contexto:** José utiliza varias tarjetas y necesita ver su gasto mensual de forma clara.  
-- **Interacción:** Al ingresar a la aplicación, José ve un resumen mensual que incluye los gastos por tarjeta, intereses generados y pagos realizados. El sistema le muestra un gráfico fácil de entender que le ayuda a ver dónde está gastando más.  
-- **Objetivo:** Tener un control visual sobre su gasto y sus pagos.  
+- **Interacción:** Al ingresar a la aplicación, José ve un resumen mensual que incluye los gastos por tarjeta e intereses generados . El sistema le muestra un gráfico fácil de entender que le ayuda a ver dónde está gastando más.  
+- **Objetivo:** Tener un control visual sobre su gasto y sus fechas de corte.  
 - **Resultado esperado:** José puede tomar decisiones informadas sobre sus finanzas y paga sus tarjetas de forma eficiente.
-
-### **Escenario 3: Optimización del Control Financiero**
-- **Usuario:** Marta (Experimentada con Múltiples Tarjetas)  
-- **Contexto:** Marta tiene varias tarjetas y una vida financiera compleja. Necesita algo que le ayude a optimizar el control sobre sus gastos y pagos.  
-- **Interacción:** Marta accede a la aplicación para ver sus resúmenes detallados, que incluyen categorización de gastos, alertas de pagos y cálculos de intereses. La aplicación le genera reportes automáticos que le permiten ver claramente qué tarjetas necesitan ser pagadas primero para evitar intereses.  
-- **Objetivo:** Optimizar su tiempo y mantener el control total de sus tarjetas.  
-- **Resultado esperado:** Marta administra eficazmente sus múltiples tarjetas, manteniendo sus finanzas organizadas y sin contratiempos.
 
 ## Workflow de la Aplicación
 
@@ -170,8 +151,6 @@ A continuación, se presenta una tabla con el flujo de trabajo deseado para la a
 | 3        | El usuario establece notificaciones de pago       | La aplicación configura alertas personalizadas para cada tarjeta | El usuario recibe notificaciones en las fechas configuradas               |
 | 4        | El usuario revisa su resumen mensual              | La aplicación genera un resumen con los gastos, intereses y pagos realizados | El usuario puede ver un desglose detallado de su gasto y pagos           |
 | 5        | El usuario consulta los reportes de gasto         | La aplicación ofrece reportes detallados con categorización de gastos y alertas | El usuario obtiene insights sobre su comportamiento financiero           |
-| 6        | El usuario paga su tarjeta a través de la app     | La aplicación procesa el pago y actualiza el saldo pendiente | El saldo de la tarjeta se actualiza y el pago se registra correctamente   |
-
 ---
 
 A través de estos perfiles y escenarios, se puede comprender mejor cómo cada tipo de usuario interactúa con el sistema. Esto es esencial para diseñar una interfaz que no solo sea funcional, sino también accesible y útil para todos los usuarios, asegurando que cada uno pueda alcanzar sus objetivos financieros con facilidad y eficiencia.
