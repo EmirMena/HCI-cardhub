@@ -1,6 +1,46 @@
 # Descripción de las Pruebas de Usabilidad
 
-## Prueba de Usabilidad 1: Personalización de datos de la tarjeta (FR07)
+## Prueba de Usabilidad 1: Visualización de fechas importantes (FR23)
+
+### Tarea 1: Identificar la fecha de corte y la fecha de pago
+
+- **Instrucciones:**
+  1. Accede al panel principal donde se muestra el resumen de tarjetas de crédito.
+  2. Encuentra la fecha de corte y la fecha de pago de una tarjeta específica.
+  3. Indica verbalmente las fechas encontradas.
+
+- **Preguntas:**
+  1. ¿Encontraste fácilmente las fechas de corte y pago?
+  2. ¿Cómo describirías la claridad con la que se presentan estas fechas?
+
+### Tarea 2: Interpretar el tiempo restante para realizar un pago
+
+- **Instrucciones:**
+  1. Observa las fechas presentadas en el panel principal.
+  2. Calcula cuánto tiempo falta para la próxima fecha de pago.
+  3. Comunica el tiempo restante al moderador.
+
+- **Preguntas:**
+  1. ¿La información proporcionada fue suficiente para determinar el tiempo restante?
+  2. ¿Consideras que algún elemento visual o textual podría mejorar esta tarea?
+
+### Tarea 3: Comprobar consistencia en la visualización de fechas
+
+- **Instrucciones:**
+  1. Cambia entre las diferentes tarjetas que tienes registradas en la aplicación.
+  2. Verifica si las fechas importantes (corte y pago) se presentan de manera consistente en todas las tarjetas.
+  3. Reporta cualquier inconsistencia al moderador.
+
+- **Preguntas:**
+  1. ¿Las fechas se presentan de manera uniforme entre las tarjetas?
+  2. ¿Alguna tarjeta mostró información confusa o incorrecta?
+
+### Preguntas post-prueba:
+1. ¿Qué tan clara te pareció la visualización de las fechas importantes?
+2. ¿Qué elementos visuales destacarías como útiles o distractores?
+3. ¿Qué sugerencias darías para mejorar la presentación de las fechas?
+
+## Prueba de Usabilidad 2: Personalización de datos de la tarjeta (FR07)
 
 ### Tarea 1: Editar la fecha de corte de una tarjeta
 
@@ -40,43 +80,3 @@
 1. ¿Qué tan intuitiva te pareció la interfaz para editar los datos de la tarjeta?
 2. ¿Notaste algún elemento que te distrajera o te dificultara completar las tareas?
 3. ¿Qué mejorarías para que la edición de los datos sea más sencilla?
-
-## Prueba de Usabilidad 2: Visualización de fechas importantes (FR23)
-
-### Tarea 1: Identificar la fecha de corte y la fecha de pago
-
-- **Instrucciones:**
-  1. Accede al panel principal donde se muestra el resumen de tarjetas de crédito.
-  2. Encuentra la fecha de corte y la fecha de pago de una tarjeta específica.
-  3. Indica verbalmente las fechas encontradas.
-
-- **Preguntas:**
-  1. ¿Encontraste fácilmente las fechas de corte y pago?
-  2. ¿Cómo describirías la claridad con la que se presentan estas fechas?
-
-### Tarea 2: Interpretar el tiempo restante para realizar un pago
-
-- **Instrucciones:**
-  1. Observa las fechas presentadas en el panel principal.
-  2. Calcula cuánto tiempo falta para la próxima fecha de pago.
-  3. Comunica el tiempo restante al moderador.
-
-- **Preguntas:**
-  1. ¿La información proporcionada fue suficiente para determinar el tiempo restante?
-  2. ¿Consideras que algún elemento visual o textual podría mejorar esta tarea?
-
-### Tarea 3: Comprobar consistencia en la visualización de fechas
-
-- **Instrucciones:**
-  1. Cambia entre las diferentes tarjetas que tienes registradas en la aplicación.
-  2. Verifica si las fechas importantes (corte y pago) se presentan de manera consistente en todas las tarjetas.
-  3. Reporta cualquier inconsistencia al moderador.
-
-- **Preguntas:**
-  1. ¿Las fechas se presentan de manera uniforme entre las tarjetas?
-  2. ¿Alguna tarjeta mostró información confusa o incorrecta?
-
-### Preguntas post-prueba:
-1. ¿Qué tan clara te pareció la visualización de las fechas importantes?
-2. ¿Qué elementos visuales destacarías como útiles o distractores?
-3. ¿Qué sugerencias darías para mejorar la presentación de las fechas?
