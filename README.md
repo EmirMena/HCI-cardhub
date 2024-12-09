@@ -155,7 +155,21 @@ A continuación, se presenta una tabla con el flujo de trabajo deseado para la a
 
 A través de estos perfiles y escenarios, se puede comprender mejor cómo cada tipo de usuario interactúa con el sistema. Esto es esencial para diseñar una interfaz que no solo sea funcional, sino también accesible y útil para todos los usuarios, asegurando que cada uno pueda alcanzar sus objetivos financieros con facilidad y eficiencia.
 
-# 4. Prototipo
+# 4. Prototipo #
 Se ha desarrollado un prototipo no funcional para poder apreciar la distribución y funciones de la interfaz gráfica en relación con los requisitos de usabilidad previamente declarados, buscando como objetivo el atender las principales necesidades de los usuarios y cumplir con el workflow de la aplicación.
 Se muestra un gráfico circular de los gastos y el tipo de los mismos en el apartado de "Detalles de tarjeta", según el principio de visibilidad del estado del sistema de Nielsen, los usuarios necesitan comprender rápidamente en qué gastan para permitirles una mejor gestión. Además, los colores utilizados durante todos los apartados no fueron escogidos de manera aleatoria sino que cumplen una función, lograr que el contraste cumpla con el estipulado en el [estándar WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/es) de mínimo 4.5:1 que es lo necesario para que una persona con o sin daltonismo pueda percibirlo de forma correcta, tratando siempre que la aplicación sea accesible para usuarios que presenten esta condición, para lograr el contraste indicado se utilizo la herramienta online [Contrast Checker](https://webaim.org/resources/contrastchecker/) de WebAIM.
+
+### El usuario debe ingresar sus datos para acceder a la aplicación ###
+ ![image](https://github.com/user-attachments/assets/a4bf25c5-0668-4b0a-80b9-e533d4c214cc)
+### Una vez dentro la primer pantalla será la de "Tarjetas" que contiene todas las tarjetas ingresadas además de la opción para ingresar alguna adicional ###
+ ![image](https://github.com/user-attachments/assets/ef0cb576-6568-4554-8a9a-04c05f6dfa13) ![image](https://github.com/user-attachments/assets/3d77423e-f7de-43a7-99ee-80edcdac1940)
+### Al dar click sobre una de las tarjetas previamente ingresadas se accede al apartado "Detalles de tarjeta" donde puede ver y modificar las fechas de corte y pago, además de poder ingresar manualmente los gastos asociados con la tarjeta ###
+![image](https://github.com/user-attachments/assets/d4ef1d1f-6bdb-4734-9e78-33eb302cb31e)
+### Si el usuario lo desea puede activar y configurar alertas de la aplicación para recordarle sus fechas de pago y corte de cada tarjeta ###
+![image](https://github.com/user-attachments/assets/b7e0001e-62df-49aa-b935-9da62210c124) ![image](https://github.com/user-attachments/assets/c2225d62-eb6d-4098-920b-f9d964f42962)
+### Por último, haciendo uso del menú desplegable en la parte superior izquierda de la pantalla se muestra los apartados de la aplicación (por motivos de la entrega solo se muestran dos) y se accede a "Resumen mensual" el cual es una forma global de ver el estado de las diferentes tarjetas y los gastos totales ### 
+![image](https://github.com/user-attachments/assets/08ee2741-bd94-439a-b15e-ce1254a98ef1) ![image](https://github.com/user-attachments/assets/158e6edf-f104-4cec-b232-24c03866c2be)
+
+
+
 
