@@ -170,6 +170,65 @@ Se muestra un gráfico circular de los gastos y el tipo de los mismos en el apar
 ### Por último, haciendo uso del menú desplegable en la parte superior izquierda de la pantalla se muestra los apartados de la aplicación (por motivos de la entrega solo se muestran dos) y se accede a "Resumen mensual" el cual es una forma global de ver el estado de las diferentes tarjetas y los gastos totales ### 
 ![image](https://github.com/user-attachments/assets/08ee2741-bd94-439a-b15e-ce1254a98ef1) ![image](https://github.com/user-attachments/assets/158e6edf-f104-4cec-b232-24c03866c2be)
 
+# 5. Usability Test
+## Objetivo del Test
+Evaluar la usabilidad de la herramienta para la gestión de tarjetas de crédito con el propósito de verificar que los usuarios puedan cumplir tareas específicas de manera eficiente, efectiva y satisfactoria.  
 
+## Plan de Pruebas
+El test de usabilidad estará dividido en las siguientes fases:  
+
+1. **Definición de Objetivos**  
+   - Verificar que los usuarios puedan identificar información clave de sus tarjetas (fechas de corte, pagos pendientes, etc.).  
+   - Evaluar si los usuarios comprenden los resúmenes mensuales y reportes financieros presentados por la aplicación.  
+   - Medir la satisfacción del usuario al interactuar con la interfaz gráfica.  
+
+2. **Participantes**  
+   Se seleccionarán 6 participantes que representen los perfiles de usuario identificados en la investigación:  
+   - **2 gestores manuales.**  
+   - **2 usuarios digitales básicos.**  
+   - **1 experimentado con múltiples tarjetas.**  
+   - **1 indeciso curioso.**  
+
+3. **Tareas a Evaluar**  
+   Las tareas evaluadas serán las siguientes:  
+   - **Tarea 1:** Registrar una nueva tarjeta en la aplicación.  
+   - **Tarea 2:** Configurar una notificación para recordar una fecha de pago.  
+   - **Tarea 3:** Consultar la fecha de corte y monto pendiente de una tarjeta específica.  
+   - **Tarea 4:** Visualizar un resumen mensual y entender los detalles de los gastos.  
+   - **Tarea 5:** Cambiar el límite de crédito de una tarjeta registrada.  
+
+4. **Entorno de Pruebas**  
+   Las pruebas se realizarán en un entorno controlado utilizando el prototipo funcional de la aplicación, en dispositivos móviles con sistema operativo Android y iOS.  
+
+5. **Métricas de Evaluación**  
+   - **Tasa de éxito:** Porcentaje de tareas completadas correctamente por los participantes.  
+   - **Tiempo de ejecución:** Tiempo promedio necesario para completar cada tarea.  
+   - **Errores:** Número de errores cometidos durante la interacción.  
+   - **Satisfacción del usuario:** Medida a través de una encuesta posterior al test (escala de Likert de 1 a 5).  
+
+## Protocolo del Test
+
+1. **Introducción**  
+   - Explicar a los participantes el objetivo del test.  
+   - Asegurar que no están siendo evaluados, sino la aplicación.  
+
+2. **Realización de Tareas**  
+   - Los participantes realizarán las tareas descritas sin ayuda externa.  
+   - Se permitirá pensar en voz alta para entender mejor su proceso de pensamiento.  
+
+3. **Recopilación de Datos**  
+   - Registrar métricas clave durante la interacción.  
+   - Tomar notas sobre dificultades o comentarios espontáneos de los participantes.  
+
+4. **Encuesta Post-Test**  
+   - Preguntar a los usuarios sobre su nivel de satisfacción y percepción general de la interfaz.  
+
+## Resultados Esperados
+- Los usuarios deben ser capaces de completar las tareas clave con una tasa de éxito del 80% o más.  
+- El tiempo de ejecución promedio para cada tarea debe ser inferior a 2 minutos.  
+- La satisfacción del usuario debe obtener una puntuación promedio de 4 o más en la escala de Likert.  
+
+## Iteración  
+Con base en los resultados, se realizarán ajustes en la interfaz para mejorar la experiencia del usuario y cumplir con los objetivos de usabilidad identificados. Se planeará un segundo ciclo de pruebas para verificar la efectividad de las mejoras implementadas.  
 
 
