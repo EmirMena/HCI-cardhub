@@ -67,7 +67,7 @@ Diseñar y evaluar una interfaz que muestre los datos principales de las tarjeta
 
 ### 2. Cumplir con el Requisito Funcional RF11:
 
-Diseñar y evaluar una sección que presente un resumen mensual de las tarjetas, incluyendo gastos totales, intereses generados y el total pagado por mes. Para ello:
+Diseñar y evaluar una sección que presente un resumen mensual de las tarjetas, incluyendo gastos totale y el total pagado por mes. Para ello:
 
 - Asegurar que la visualización sea clara, detallada y fácil de interpretar para el usuario.
 - Validar mediante pruebas de usabilidad que los usuarios comprendan la información presentada en el resumen mensual y puedan identificar cada elemento relevante.
@@ -77,7 +77,7 @@ Diseñar y evaluar una sección que presente un resumen mensual de las tarjetas,
 
 | Prueba de usabilidad                                                                 | Métrica                                                                                                        |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| El sistema debe ofrecer una visualización clara y detallada del resumen mensual de las tarjetas, asegurando que la información sea fácil de interpretar para el usuario. | Verificar si los usuarios comprenden la información del resumen mensual y si pueden identificar cada elemento (gastos, intereses y pagos) para cada tarjeta. <br> Tasa de éxito = (número de usuarios que logran identificar correctamente los datos / total de usuarios que intentaron la actividad) * 100 |
+| El sistema debe ofrecer una visualización clara y detallada del resumen mensual de las tarjetas, asegurando que la información sea fácil de interpretar para el usuario. | Verificar si los usuarios comprenden la información del resumen mensual y si pueden identificar cada elemento (gastos y pagos) para cada tarjeta. <br> Tasa de éxito = (número de usuarios que logran identificar correctamente los datos / total de usuarios que intentaron la actividad) * 100 |
 # User Modeling
 
 En el proceso de diseño de la herramienta de gestión de tarjetas de crédito, es fundamental tener en cuenta las características y necesidades de los usuarios. Cada persona interactúa con el sistema de manera distinta, dependiendo de su nivel de experiencia con herramientas digitales y su comportamiento financiero. Por ello, crear perfiles de usuario bien definidos es esencial para asegurar que la interfaz cumpla con las expectativas de todos los usuarios, sin importar su perfil o contexto.
