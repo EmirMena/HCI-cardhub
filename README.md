@@ -155,5 +155,5 @@ A continuación, se presenta una tabla con el flujo de trabajo deseado para la a
 
 A través de estos perfiles y escenarios, se puede comprender mejor cómo cada tipo de usuario interactúa con el sistema. Esto es esencial para diseñar una interfaz que no solo sea funcional, sino también accesible y útil para todos los usuarios, asegurando que cada uno pueda alcanzar sus objetivos financieros con facilidad y eficiencia.
 
-# 4. Prototipos
-![image](https://github.com/user-attachments/assets/c0c17709-b23e-45b2-b69d-b335469802c3)
+# 4. Prototipo
+se muestra un gráfico circular de los gastos y el tipo de los mismos en el apartado de "Detalles de tarjeta", según el principio de visibilidad del estado del sistema de Nielsen, los usuarios necesitan comprender rápidamente en qué gastan para permitirles una mejor gestión. Además, los colores utilizados durante todos los apartados no fueron escogidos de manera aleatoria sino que cumplen una función, lograr que el contraste cumpla con WCAG de mínimo 4.5:1 que es lo necesario para que una persona con o sin daltonismo pueda percibirlo de forma correcta, tratando siempre que la aplicación sea accesible para usuarios que presenten esta condición, para lograr el contraste indicado se utilizo la herramienta online [Contrast Checker](https://webaim.org/resources/contrastchecker/) de WebAIM
