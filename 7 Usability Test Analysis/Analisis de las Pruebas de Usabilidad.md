@@ -15,7 +15,7 @@ El tiempo promedio de finalización fue de **8:37 minutos**. José tuvo el tiemp
 ### **Tasa de Éxito**
 | Participante  | Tareas Completadas Correctamente | Tasa de Éxito |
 |---------------|----------------------------------|---------------|
-| Participante 1| Todas                           | 100%          |
+| Gaspar        | Todas                           | 100%          |
 | Isai          | Todas                           | 100%          |
 | José          | Todas                           | 100%          |
 
@@ -27,7 +27,7 @@ Todos los participantes completaron las tareas correctamente, mostrando **alta e
 ### **Percepción de Claridad de Información**
 | Participante  | Comentarios sobre Claridad de la Información |
 |---------------|---------------------------------------------|
-| Participante 1| "Muy claro, los datos son fáciles de ubicar."|
+| Gaspar        | "Muy claro, los datos son fáciles de ubicar."|
 | Isai          | "Bastante intuitivo, los colores ayudan."   |
 | José          | "Fácil de encontrar, aunque el tamaño podría mejorar." |
 
@@ -52,7 +52,7 @@ Los participantes consideraron la información suficiente, pero cambios visuales
 ### **Consistencia y Uniformidad**
 | Participante  | Comentarios sobre Consistencia |
 |---------------|--------------------------------|
-| Participante 1| "Muy uniforme entre las tarjetas." |
+| Gaspar        | "Muy uniforme entre las tarjetas." |
 | Isai          | "Todo es muy claro y consistente." |
 | José          | "La información está organizada y es uniforme." |
 
@@ -64,7 +64,7 @@ La consistencia es un punto fuerte que asegura una experiencia fluida.
 ### **Percepción de Intuición de la Interfaz**
 | Participante  | Calificación de Intuición       |
 |---------------|---------------------------------|
-| Participante 1| "Intuitiva y clara."            |
+| Gaspar        | "Intuitiva y clara."            |
 | Isai          | "Muy fácil de usar, el calendario es cómodo." |
 | José          | "Bastante intuitiva, fácil de ingresar datos." |
 
@@ -76,7 +76,7 @@ El diseño es funcional e intuitivo, aunque hay detalles visuales que podrían m
 ### **Distractores Identificados**
 | Participante  | Comentarios sobre Distractores |
 |---------------|--------------------------------|
-| Participante 1| "No reportó distractores."     |
+| Gaspar        | "No reportó distractores."     |
 | Isai          | "Más contraste en los colores."|
 | José          | "Palomita pequeña para confirmar montos." |
 
@@ -88,7 +88,7 @@ Aunque no hubo distracciones graves, pequeños ajustes podrían mejorar la exper
 ### **Satisfacción General**
 | Participante  | Satisfacción Subjetiva (1-5) | Comentarios                         |
 |---------------|-------------------------------|-------------------------------------|
-| Participante 1| 5/5                           | "Muy cómoda y clara."              |
+| Gaspar        | 5/5                           | "Muy cómoda y clara."              |
 | Isai          | 4.5/5                         | "Todo es intuitivo, pero el fondo puede mejorar." |
 | José          | 4.5/5                         | "Muy funcional, aunque pequeños elementos pueden mejorarse." |
 
