@@ -1,17 +1,17 @@
 # Resultado del Análisis del Proyecto
 
-1. Detalle de las pruebas de usabilidad
+# 1. Detalle de las pruebas de usabilidad
 Las pruebas de usabilidad se realizaron utilizando prototipos interactivos que permitieron evaluar los requisitos funcionales seleccionados (RF20, RF23, RF24). Los resultados de las pruebas fueron analizados a través de los videos grabados durante las sesiones, los cuales se encuentran disponibles en la carpeta "6 Usability Test".
 
-2. Materiales Usados
+# 2. Materiales Usados
 Para llevar a cabo las pruebas de usabilidad, se utilizaron varias herramientas clave para su diseño, implementación y análisis:
 Microsoft Teams y Zoom: Usados como medios de comunicación durante las pruebas remotas.
 Software de conversión de formatos de video online: Para transformar los videos grabados a un formato adecuado para su transcripción.
 
-3. Evidencia
+# 3. Evidencia
 Los videos de las pruebas de usabilidad y los resultados obtenidos están disponibles en la siguiente carpeta 6/Pruebas
 
-4. Análisis de Datos
+# 4. Análisis de Datos
 4.1 Análisis de las pruebas utilizando los checklists
 De acuerdo con el plan de pruebas, se utilizó metricas de usabilidad para evaluar el desempeño de los usuarios en cada tarea. Los resultados fueron los siguientes:
 
@@ -22,7 +22,7 @@ Tarea 2: Ver un gráfico de fechas de corte y pago (RF23)
 
 Todas las pruebas de usabilidad correctamente.
 
-5. Resultados de las Pruebas de Usabilidad
+# 5. Resultados de las Pruebas de Usabilidad
 
 Tasa de Éxito y Tiempos de Finalización
 Tarea 1: Notificación sobre fechas de pago (RF20)
@@ -49,7 +49,7 @@ Satisfacción promedio: 4.0/5
 Tasa de abandono: 0%
 Análisis: Los usuarios pudieron interpretar correctamente los períodos de pago y gasto representados en la gráfica. Sin embargo, algunos sugerieron que la distinción visual entre los dos períodos podría mejorarse utilizando diferentes colores o patrones.
 
-6. Identificación de Problemas Clave
+# 6. Identificación de Problemas Clave
 Notificación sobre fechas de pago (RF20):
 
 Puntos fuertes: La notificación fue clara, fácil de entender y no presentó errores significativos.
@@ -67,7 +67,7 @@ Manejo de tarjetas registradas:
 Puntos fuertes: Los usuarios pudieron interactuar con las tarjetas registradas sin dificultades graves.
 Problemas identificados: La interfaz para gestionar las tarjetas podría ser más intuitiva. Los usuarios sugirieron mejoras en la visibilidad de las opciones y la navegación entre ellas.
 
-7. Recomendaciones
+# 7. Recomendaciones
 Mejorar la retroalimentación visual de las gráficas (RF23, RF24):
 
 Utilizar diferentes colores o patrones para representar los períodos de pago y gasto, y añadir una leyenda explicativa para mejorar la comprensión.

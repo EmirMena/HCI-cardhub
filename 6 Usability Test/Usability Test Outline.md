@@ -45,18 +45,21 @@ Tasa de éxito:
 o	Inaceptable: Menos del 70% completa la tarea.
 o	Aceptable: Entre 70% y 90% completa la tarea.
 o	Excelente: Más del 90% completa la tarea.
+
 Tiempo de finalización:
 •	Definición: Tiempo promedio que los usuarios tardan en completar cada tarea.
 •	Niveles de usabilidad:
 o	Inaceptable: Más del 120% del tiempo esperado.
 o	Aceptable: Entre 100% y 120% del tiempo esperado.
 o	Excelente: Menos del 100% del tiempo esperado.
+
 Claridad de la información:
 •	Definición: Porcentaje de usuarios que comprenden claramente las etiquetas e instrucciones.
 •	Niveles de usabilidad:
 o	Inaceptable: Menos del 70% comprende la información.
 o	Aceptable: Entre 70% y 90% comprende la información.
 o	Excelente: Más del 90% comprende la información.
+
 Satisfacción del usuario:
 •	Definición: Promedio de calificaciones en una escala de Likert (1-5).
 •	Niveles de usabilidad:
