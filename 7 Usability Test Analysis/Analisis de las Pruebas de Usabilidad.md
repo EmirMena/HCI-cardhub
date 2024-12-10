@@ -117,7 +117,7 @@ La satisfacción general es alta. Las áreas de mejora están relacionadas con e
 - Realizar pruebas adicionales con usuarios con posibles limitaciones visuales para validar mejoras.
 
 ---
-## **Análisis e Interpretación**
+## **Conclusiones finales**
 
 Las pruebas de usabilidad realizadas a tres participantes revelan que la interfaz es en general **intuitiva y eficiente**. Los tres usuarios completaron las tareas sin dificultades, mostrando que el flujo de la aplicación está diseñado para ser directo y fácil de entender. Sin embargo, las sugerencias de los participantes en cuanto a la **visibilidad de la información** sugieren que, aunque la interfaz es funcional, el diseño visual podría beneficiarse de algunos ajustes. La fuente de las fechas, por ejemplo, podría aumentar su tamaño para mejorar la accesibilidad y evitar confusión. Además, la importancia del **contraste visual** fue destacada por los participantes, especialmente en elementos pequeños como los botones de confirmación.
 
