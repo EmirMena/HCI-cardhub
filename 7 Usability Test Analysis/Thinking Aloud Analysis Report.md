@@ -1,32 +1,30 @@
-Resultado del Análisis del Proyecto
+# Resultado del Análisis del Proyecto
+
 1. Detalle de las pruebas de usabilidad
 Las pruebas de usabilidad se realizaron utilizando prototipos interactivos que permitieron evaluar los requisitos funcionales seleccionados (RF20, RF23, RF24). Los resultados de las pruebas fueron analizados a través de los videos grabados durante las sesiones, los cuales se encuentran disponibles en la carpeta "6 Usability Test".
 
 2. Materiales Usados
 Para llevar a cabo las pruebas de usabilidad, se utilizaron varias herramientas clave para su diseño, implementación y análisis:
-
-Microsoft Teams y Discord: Usados como medios de comunicación durante las pruebas remotas.
+Microsoft Teams y Zoom: Usados como medios de comunicación durante las pruebas remotas.
 Software de conversión de formatos de video online: Para transformar los videos grabados a un formato adecuado para su transcripción.
-3. Evidencia
-Los videos de las pruebas de usabilidad y los resultados obtenidos están disponibles en la siguiente carpeta de Google Drive:
 
-Enlace a la carpeta de pruebas de usabilidad
+3. Evidencia
+Los videos de las pruebas de usabilidad y los resultados obtenidos están disponibles en la siguiente carpeta 6/Pruebas
 
 4. Análisis de Datos
 4.1 Análisis de las pruebas utilizando los checklists
-De acuerdo con el plan de pruebas, se utilizó una checklist para evaluar el desempeño de los usuarios en cada tarea. Los resultados fueron los siguientes:
+De acuerdo con el plan de pruebas, se utilizó metricas de usabilidad para evaluar el desempeño de los usuarios en cada tarea. Los resultados fueron los siguientes:
 
 Tarea 1: Recibir una notificación sobre un pago pendiente (RF20)
 
 Todos los participantes completaron esta tarea correctamente (100% de éxito).
 Tarea 2: Ver un gráfico de fechas de corte y pago (RF23)
 
-Las 3 pruebas realizadas fueron exitosas, pasando todas las casillas del checklist.
-Tarea 3: Consultar el gráfico de los períodos de pago y gasto (RF24)
+Todas las pruebas de usabilidad correctamente.
 
-Todas las pruebas pasaron el checklist correctamente.
 5. Resultados de las Pruebas de Usabilidad
-5.1 Tasa de Éxito y Tiempos de Finalización
+
+Tasa de Éxito y Tiempos de Finalización
 Tarea 1: Notificación sobre fechas de pago (RF20)
 Tasa de éxito promedio: 100%
 Tiempo promedio de finalización: 6 minutos
@@ -68,6 +66,7 @@ Manejo de tarjetas registradas:
 
 Puntos fuertes: Los usuarios pudieron interactuar con las tarjetas registradas sin dificultades graves.
 Problemas identificados: La interfaz para gestionar las tarjetas podría ser más intuitiva. Los usuarios sugirieron mejoras en la visibilidad de las opciones y la navegación entre ellas.
+
 7. Recomendaciones
 Mejorar la retroalimentación visual de las gráficas (RF23, RF24):
 
@@ -79,11 +78,3 @@ Incluir más detalles sobre el monto total a pagar al final del período, ademá
 Optimizar la interfaz de manejo de tarjetas registradas (RF23, RF24):
 
 Hacer más visibles las opciones de gestión de tarjetas registradas y mejorar la navegación entre las diferentes funcionalidades para que la experiencia de usuario sea aún más intuitiva.
-8. Resumen
-Las pruebas de usabilidad mostraron que el sistema cumple en gran medida con los requisitos RF20, RF23, y RF24. Los usuarios pudieron interactuar con el sistema de manera efectiva, sin errores importantes, y la satisfacción general fue alta. Sin embargo, se identificaron áreas clave de mejora en cuanto a la retroalimentación visual de las gráficas, la claridad en la escala de tiempo y la intuitividad en el manejo de las tarjetas registradas.
-
-9. Próximos Pasos
-Implementar las mejoras recomendadas, especialmente en las gráficas y en la notificación de fechas de pago.
-Realizar una segunda ronda de pruebas para evaluar la efectividad de las mejoras implementadas y continuar optimizando la experiencia de usuario.
-Impacto esperado:
-Las mejoras en la interfaz gráfica y la retroalimentación visual aumentarán la claridad y la satisfacción de los usuarios, haciendo que el sistema sea más intuitivo y fácil de usar.
