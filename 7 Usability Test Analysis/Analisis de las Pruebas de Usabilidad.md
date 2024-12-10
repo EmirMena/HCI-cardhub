@@ -117,3 +117,9 @@ La satisfacción general es alta. Las áreas de mejora están relacionadas con e
 - Realizar pruebas adicionales con usuarios con posibles limitaciones visuales para validar mejoras.
 
 ---
+## **Análisis e Interpretación**
+
+Las pruebas de usabilidad realizadas a tres participantes revelan que la interfaz es en general **intuitiva y eficiente**. Los tres usuarios completaron las tareas sin dificultades, mostrando que el flujo de la aplicación está diseñado para ser directo y fácil de entender. Sin embargo, las sugerencias de los participantes en cuanto a la **visibilidad de la información** sugieren que, aunque la interfaz es funcional, el diseño visual podría beneficiarse de algunos ajustes. La fuente de las fechas, por ejemplo, podría aumentar su tamaño para mejorar la accesibilidad y evitar confusión. Además, la importancia del **contraste visual** fue destacada por los participantes, especialmente en elementos pequeños como los botones de confirmación.
+
+Otro aspecto clave es la **consistencia** en la presentación de la información entre las tarjetas y los flujos, lo cual es un punto positivo en cuanto a la experiencia de usuario. La uniformidad contribuye a una navegación clara y predecible, lo que facilita la interacción. A pesar de estas recomendaciones, los participantes estuvieron **altamente satisfechos** con la interfaz, lo que refleja que los ajustes sugeridos son más bien detalles finos que podrían mejorar aún más la experiencia general sin afectar la funcionalidad principal. En resumen, aunque el sistema cumple con los objetivos de usabilidad, las mejoras visuales y de accesibilidad pueden contribuir significativamente a optimizar la experiencia del usuario.
+
