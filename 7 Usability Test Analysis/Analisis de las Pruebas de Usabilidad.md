@@ -3,7 +3,7 @@
 ## **Resultados Generales**
 
 ### **Tiempos Totales de Finalización**
-- **Participante 1:** 7:34 minutos  
+- **Gaspar:** 7:34 minutos  
 - **Isai:** 8:20 minutos  
 - **José:** 9:58 minutos  
 
