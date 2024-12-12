@@ -191,11 +191,10 @@ El test de usabilidad estará dividido en las siguientes fases:
 
 3. **Tareas a Evaluar**  
    Las tareas evaluadas serán las siguientes:  
-   - **Tarea 1:** Registrar una nueva tarjeta en la aplicación.  
-   - **Tarea 2:** Configurar una notificación para recordar una fecha de pago.  
-   - **Tarea 3:** Consultar la fecha de corte y monto pendiente de una tarjeta específica.  
-   - **Tarea 4:** Visualizar un resumen mensual y entender los detalles de los gastos.  
-   - **Tarea 5:** Cambiar el límite de crédito de una tarjeta registrada.  
+   - **Tarea 1:** Configurar una notificación para recordar una fecha de pago.  
+   - **Tarea 2:** Consultar la fecha de corte y monto pendiente de una tarjeta específica.  
+   - **Tarea 3:** Visualizar un resumen mensual y entender los detalles de los gastos.  
+
 
 4. **Entorno de Pruebas**  
    Las pruebas se realizarán en un entorno controlado utilizando el prototipo funcional de la aplicación, en dispositivos móviles con sistema operativo Android y iOS.  
